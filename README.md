@@ -11,3 +11,6 @@ built schemas for input validationa and response and take chats from user in a f
 2-configuring so that the keys from the .env file can be read
 """"""
 the config.py used because---modularity--and--sigle way to expose api key
+
+added the gemini adapter
+added resolver in the main to choose the adapter based on the model name
